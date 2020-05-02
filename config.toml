@@ -8,7 +8,7 @@ theme = "archie"
 
 
 # Your Google analytics code.
-googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-165368426-1"
 
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
 paginate = 10
