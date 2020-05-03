@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Hi, I'm Daria"
 theme = "ezhil"
 
+copyright = "© 2020 Daria Grudzien <https://dariagrudzien.com"
 googleAnalytics = "UA-165368426-1"
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
 paginate = 10
@@ -10,7 +11,7 @@ paginate = 10
 summaryLength = 150
 
 [params]
-    subtitle = "One SRE's notes on technology, communication, and navigating the seas of possibilities."
+    subtitle = "I write about tech, comms, and people."
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
     # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.

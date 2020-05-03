@@ -61,3 +61,4 @@ Unless you’re one of those mythical creatures whose belief in their own value 
 
 Every junior climbing up the ladder of knowledge does so by standing on the arms of the giants. My words can’t possibly express the gratitude I feel towards my mentors, colleagues past and present, supportive bosses, instructors and teachers who generously shared their time and skills with me. To every one of you, on an off chance that you’ve read this article this far, thank you. I promise I will try not to waste what you taught me, and to pass it forward.
 
+Daria
