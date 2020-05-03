@@ -1,5 +1,5 @@
 ---
-title: "The One About Being A Good Team Member In High Stress Situations"
+title: "The One About Being A Competent Team Member In High Stress Situations"
 date: 2020-05-03T14:01:58+02:00
 description: "Or Lessons Learned From Not Crashing Your Boat Into The Pier at 70 Km/h"
 ---
