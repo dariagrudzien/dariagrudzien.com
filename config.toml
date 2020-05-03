@@ -1,6 +1,6 @@
 baseURL = "https://dariagrudzien.com/"
 languageCode = "en-us"
-title = "Hello from Daria"
+title = "Hi, I'm Daria"
 theme = "ezhil"
 
 googleAnalytics = "UA-165368426-1"
@@ -10,7 +10,7 @@ paginate = 10
 summaryLength = 150
 
 [params]
-    subtitle = "Coffee & pancakes"
+    subtitle = "One SRE's notes on technology, communication, and navigating the seas of possibilities."
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
     # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
