@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Hi, I'm Daria"
 theme = "ezhil"
 
-copyright = "© 2020 Daria Grudzien <https://dariagrudzien.com"
+copyright = "© 2020 Daria Grudzien"
 googleAnalytics = "UA-165368426-1"
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
 paginate = 10
