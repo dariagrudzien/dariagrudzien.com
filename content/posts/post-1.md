@@ -1,62 +1,63 @@
 ---
-title: "Primer: When You Have Too Much to Do"
-date: 2018-03-18T02:01:58+05:30
-description: "You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more."
-tags: [Primer, todo]
+title: "The One About Managing Self As A Junior"
+date: 2020-05-01T12:01:58+02:00
+description: "Or How To Decrease The Load on Your Team"
 ---
 
-You have a to-do list that scrolls on for days. You are managing multiple projects, getting lots of email and messages on different messaging systems, managing finances and personal health habits and so much more.
+Throughout the years, there are things my mentors reported, and some that I observed both while hustling as a junior and managing a team in my past life, which help juniors contribute more, develop faster and save mentoring time (and mentors energy).
 
-It all keeps piling up, and it can feel overwhelming.
+> Disclaimer: Reading this you may have a feeling that I disregard the role of the mentor, and the responsibility of seniors to share their knowledge with the team. I don’t - I think it’s a separate topic.
 
-How do you keep up with it all? How do you find focus and peace and get stuff accomplished when you have too much on your plate?
+# Junioring 101
 
-In this primer, I’ll look at some key strategies and tactics for taking on an overloaded life with an open heart, lots of energy, and a smile on your face.
+## Ownership
 
-## The First Step: Triage
+No matter how junior you are, and who is assigned to help you on the task, ultimately you are the owner of your task. You take responsibility for moving it forward. This means tracking it, reporting about it, tracking requirements, clarifying the definition of done, observing deadlines, identifying needed help and asking for it. Your mentors are there to generously share their time and knowledge with you, but it is not their job to make sure the task is moving towards completion. It’s your responsibility.
 
-Whether you’re just starting your day, or you’re in the middle of the chaos and just need to find some sanity … the first step is to get into triage mode.
+## Communication
 
-Triage, as you probably know, is sorting through the chaos to prioritize: what needs to be done now, what needs to be done today, what needs to be done this week, and what can wait? You’re looking at urgency, but also what’s meaningful and important.
+You need to communicate the status of your task to the person who assigned it to you, and be proactive about it. If you need more time than expected, say it. If you need help, say it. If you got stuck, say it. If you finished it, say it. If you don’t know how long it will take to deliver, say it when asked to time-box it. It is on you to make sure that the person who assigned you the task knows what is the status of it, without their need to constantly check in with you.
 
-Here’s what you might do:
+## Accommodate Your Mentors’ Communication Needs
 
-* Pick out the things that need to be done today. Start a Short List for things you’re going to do today. That might be important tasks for big projects, urgent tasks that could result in damage if you don’t act, smaller admin tasks that you really should take care of today, and responding to important messages. I would recommend being ruthless and cutting out as much as you can, having just 5 things on your plate if that’s at all possible. Not everything needs to be done today, and not every email needs to be responded to.
-* Push some things to tomorrow and the rest of the week. If you have deadlines that can be pushed back (or renegotiated), do that. Spread the work out over the week, even into next week. What needs to be done tomorrow? What can wait a day or two longer?
-* Eliminate what you can. That might mean just not replying to some messages that aren’t that important and don’t really require a reply. It might mean telling some people that you can’t take on this project after all, or that you need to get out of the commitment that you said you’d do. Yes, this is uncomfortable. For now, just put them on a list called, “To Not Do,” and plan to figure out how to get out of them later.
+To make the communication process even smoother, ask your mentors about their preferred channel and frequency of communication. Have them explicitly tell you whether they prefer you to write everything in a pull request, write an email so they can read it when they have time, write them a Slack message, or come by their table to talk. Ask whether they want to get regular updates or only in certain circumstances. Agree on communication protocol for regular work and high importance work - those requirements may be different. And then follow the agreement - this will help you communicate in a way that will respect their time and attention requirements, and usually make them more eager to help out. Everyone wins.
 
-OK, you have some breathing room and a manageable list now! Let’s shrink that down even further and just pick one thing.
+## Time-boxing
 
-## Next: Focus on One Thing
+Let’s get real here - if you’ve never written any production code, don’t know the review process, don’t even understand the task fully when you’re assigned with it, you’re not going to be able to come up with a realistic time frame. TODO.
 
-With a lot on your plate, it’s hard to pick one thing to focus on. But that’s exactly what I’m going to ask you to do.
+## Delivery
 
-Pick one thing, and give it your focus. Yes, there are a lot of other things you can focus on. Yes, they’re stressing you out and making it hard to focus. But think about it this way: if you allow it all to be in your head all the time, that will always be your mode of being. You’ll always be thinking about everything, stressing out about it all, with a frazzled mind … unless you start shifting.
+Navigating a project with a very high amount of unknowns is one of the hardest things there is at work, yet this is your standard operating environment. It’s very easy to get lost, discouraged, overwhelmed in the process. You need to remember, however, that you are responsible for delivering the task. This means you need to complete it in a way that meets the agreed upon definition of done. You need to do your best to observe the deadlines.
 
-The shift:
+## Try Finding Solutions
+You need help all the time. Anything small and big is an obstacle you’re struggling to get over. Before you go looking for help, put your best effort into solving your own problem. Ask seniors around you how they handle situations like this and what tools they use. Learn to search for answers on the internet, and learn to do it well. Learn to find available documentation, even if you don’t understand the instructions in it. Learn to suppress the instinct to call out for help and try it yourself first, so when you go looking for help, you are able to summarize what steps you tried and how successful you were. But what you also need to learn is not to waste infinite time trying to do it yourself, and ask for help - sometimes someone senior will solve in 5 minutes something you’d solve in 5 days.
 
-* Pick something to focus on. Look at the triaged list from the first section … if you have 5-6 things on this Short List, you can assess whether there’s any super urgent, time-sensitive things you need to take care of. If there are, pick one of them. If not, pick the most important one — probably the one you have been putting off doing.
-* Clear everything else away. Just for a little bit. Close all browser tabs, turn off notifications, close open applications, put your phone away.
-* Put that one task before you, and allow yourself to be with it completely. Pour yourself into it. Think of it as a practice, of letting go (of everything else), of focus, of radical simplicity.
+## Tailored Help Requests
 
-When you’re done (or after 15-20 minutes have gone by at least), you can switch to something else. But don’t allow yourself to switch until then.
+And so when you’re ready to ask for help, try to define the problem as clearly as possible. Summarise how you tried to solve it yourself, e.g. “This is the article I found I think is on the topic, but I don’t understand the explanation, or I tried it like this and it did not work. I don’t know why.” Or explain how lost you are, e.g. “I need to finish this task, but I don’t understand what exactly am I supposed to do, and don’t know how to achieve it.” This will help your mentor understand the issue quickly, assure them you’re not wasting their time without thinking it through first, help them by having some guides to look into if you can find some documentation, and mostly - take away a burden of figuring out what they need to do to help you. They can review the current status and understand what needs to be explained or shown, and then just do it. This will save a lot of their energy and time, and will make them feel more useful and effective.
 
-By closing off all exits, by choosing one thing, by giving yourself completely to that thing … you’re now in a different mode that isn’t so stressful or spread thin. You’ve started a shift that will lead to focus and sanity.
+## Persistence
 
-## Third: Schedule Time to Simplify
+Unless you’re one of those superhumans I constantly read about in the news, you’re prone to giving up if you run out of energy (or hope). Doing things takes time, and doing valuable frequently takes a lot of it. Like in every adventure story, there are traps and obstacles waiting for you behind every corner. It’s easy to get discouraged and feel hopeless from time to time. It is your job to bounce back, and keep putting one foot in front of the other until you can run. We’ve already established that your task is your responsibility - you need to find answers, get help, and ultimately get it done.
 
-Remember the To Not Do list above? Schedule some time this week to start reducing your projects, saying no to people, getting out of commitments, crossing stuff off your task list … so that you can have some sanity back.
+## Learning
 
-There are lots of little things that you’ve said “yes” to that you probably shouldn’t have. That’s why you’re overloaded. Protect your more important work, and your time off, and your peace of mind, by saying “no” to things that aren’t as important.
+You need to learn, and fast. Learn how you learn best - you’ve been doing it for years now, so think of what strategies work best for you. Do you like to layer knowledge like a lasagna - start with basics, progress to more advanced topics later? Do you prefer a tetris approach of fitting random things together until they fit? Do you need to understand the philosophical principles first? Verbalize it and be conscious of it. Try out and find tools that work best for you - paper notebooks, apps, whatever it is. Learn to make effective notes. And importantly, learn to check your notes and use them when you approach problems. Nothing wastes your time like saving the same problems 3 times in a row, while having it documented in your notes (trust me, I keep doing it regularly to my horror).
 
-Schedule the time to simplify — you don’t have to do it today, but sometime soon — and you can then not have to worry about the things on your To Not Do list until then.
+## Learn the Working Culture
 
-## Fourth: Practice Mindful Focus
+Figure out the structure of teams and responsibilities of various people. Learn how they handover tasks between each other. Learn how it works in your own team. Figure out what implicit and explicit processes and rituals are, the best practices, what things are important to management and your team (is it meeting deadlines? Is it the quality of work? Is it good communication?) The time for suggesting improvements will come when you have a reasonable understanding of how things (don’t) work, in the beginning you want to know the exact lay on the land so you can operate effectively on it. Fineprint: this is exactly why picking the right team to learn from is so bloody important.
 
-Go through the rest of the day with an attitude of “mindful focus.” That means that you are doing one thing at a time, being as present as you can, switching as little as you can.
+## Contribute with other skills
 
-Think of it as a settling of the mind. A new mode of being. A mindfulness practice (which means you won’t be perfect at it).
+You may be junior in this line of work, but surely you have life experience you can draw from at this point. Did you work in sales before becoming a yoga teacher? Did you do user support before going into programming? Were you a personal assistant before going into marketing? What skills, knowledge, tools do you have from your past life that you can apply in this one? Is your team full of super senior specialists missing someone to manage projects? Do they need someone to communicate with users? Or someone to teach them some basic sales skills? Whatever those are, offer them to your team. This is how you can pay back for the time they will take to mentor you. But make sure there is a good balance - you want to develop in the new career, not slide back into your old one.
 
-As you practice mindful focus, you’ll learn to practice doing things with an open heart, with curiosity and gratitude, and even joy. Try these one at a time as you get to do each task on your Short List.
+## Manage Your Self-Esteem
 
-You’ll find that you’re not so overloaded, but that each task is just perfect for that moment. And that’s a completely new relationship with the work that you do, and a new relationship with life.
+Unless you’re one of those mythical creatures whose belief in their own value is rock solid no matter the circumstances, your feeling of worth and ability to do valuable work as a junior may be as fragile as well roasted tomatoes. Poke into it and it spills all its contents. To make sure you have the energy to keep getting through even the worst of days, take the time to focus on things you do well. Sit down and put an effort into making a list of things that make you remarkable. Write down a list of things you do really well (baking chocolate muffins, levelling up fast in WoW, reverse parking, organizing spreadsheets - literally, anything that makes you proud goes into that list). Have the list always with you and read it regularly. Set a reminder to read it once a day, or a week. Look at it immediately when you feel an instinct to call yourself an idiot, or tell yourself that you suck. Talk to yourself like you would to your best friend - be real, but also be caring, and gentle, and supportive. After all, you are starting on a journey to development, and growth, and learning. Over time you will accomplish great things, do awesome work, have epic adventures.
+
+## Acknowledgements
+
+Every junior climbing up the ladder of knowledge does so by standing on the arms of the giants. My words can’t possibly express the gratitude I feel towards my mentors, colleagues past and present, supportive bosses, instructors and teachers who generously shared their time and skills with me. To every one of you, on an off chance that you’ve read this article this far, thank you. I promise I will try not to waste what you taught me, and to pass it forward.
+
