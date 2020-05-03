@@ -22,15 +22,16 @@ name = "Home"
 url = "/"
 weight = 1
 
-[[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
+# Enable when more than 10 posts
+# [[menu.main]]
+# name = "All posts"
+# url = "/posts"
+# weight = 2
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 3
+weight = 2
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
@@ -47,4 +48,4 @@ url = "https://twitter.com/dariagrudzien"
 [[params.social]]
 name = "LinkedIn"
 icon = "linkedin"
-url = "https://twitter.com/in/dariagru"
+url = "https://linkedin.com/in/dariagru"
