@@ -17,8 +17,8 @@ enableEmoji = true
     mainSections = ["posts"]
     # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
     featherIconsCDN = true
-    favicon = "icons/compass.ico"
-    customCSS = "css/custom.css"
+    favicon = "/icons/compass.ico"
+    customCSS = "/css/custom.css"
 # Main menu which appears below site header.
 [[menu.main]]
 name = "Home"
