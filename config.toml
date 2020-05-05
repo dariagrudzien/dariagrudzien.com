@@ -9,6 +9,7 @@ googleAnalytics = "UA-165368426-1"
 paginate = 10
 # Number of characters to show in summary.
 summaryLength = 150
+enableEmoji = true
 
 [params]
     subtitle = "I write about tech, comms, and people."
