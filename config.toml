@@ -8,7 +8,7 @@ googleAnalytics = "UA-165368426-1"
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
 paginate = 10
 # Number of characters to show in summary.
-summaryLength = 300
+summaryLength = 100
 enableEmoji = true
 
 [params]
@@ -52,3 +52,8 @@ url = "https://twitter.com/dariagrudzien"
 name = "LinkedIn"
 icon = "linkedin"
 url = "https://linkedin.com/in/dariagru"
+
+[[params.social]]
+name = "RSS"
+icon = "rss"
+url = "/index.xml"
