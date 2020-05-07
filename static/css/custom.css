@@ -6,6 +6,10 @@ body {
     font-size: 16px;
 }
 
+p {
+    font-weight: 500;
+}
+
 a, a:hover {
     color: #7D6DAD;
 }
@@ -60,9 +64,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .header a {
-    color: #333;
     font-weight: 300;
 }
+
 .header h2 {
     color: #333;
     font-weight: 300;
