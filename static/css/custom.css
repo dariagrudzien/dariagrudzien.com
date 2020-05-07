@@ -1,6 +1,6 @@
 body {
     font-family: "raleway", Helvetica, Arial, sans-serif;
-    font-weight: 400;
+    font-weight: 500;
     color: #333;
     line-height: 1.6;
     font-size: 16px;
@@ -47,7 +47,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .site-title a {
-    color: #7D6DAD;
+    color: #333;
     font-weight: 500;
 }
 
@@ -61,6 +61,15 @@ h1,h2,h3,h4,h5,h6 {
 
 .header a {
     color: #333;
+    font-weight: 300;
+}
+.header h2 {
+    color: #333;
+    font-weight: 300;
+}
+
+.header .site-description {
+    color: #7D6DAD;
 }
 
 .section .section-header {
@@ -91,7 +100,7 @@ h1,h2,h3,h4,h5,h6 {
     margin: 0 1px;
 }
 
-.post ul li {
+ul li {
     font-weight: 600;
 }
 
