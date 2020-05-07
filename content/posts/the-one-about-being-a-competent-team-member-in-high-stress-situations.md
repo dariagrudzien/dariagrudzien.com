@@ -1,10 +1,13 @@
 ---
 title: "The One About Being A Competent Team Member In High Stress Situations"
 date: 2020-05-03T14:01:58+02:00
-description: "Or Lessons Learned From Not Crashing Your Boat Into The Pier at 70 Km/h"
 ---
 
-> The idea to use a phrase `competent team member` comes from `Competent Crew`, an entry level sailing certification granted by [Royal Yachting Association](https://en.wikipedia.org/wiki/Competent_Crew).
+**Or Lessons Learned From Not Crashing Your Boat Into The Pier at 70 Km/h.**
+
+---
+
+(The idea to use a phrase "competent team member" comes from [Competent Crew]((https://en.wikipedia.org/wiki/Competent_Crew)), an entry level sailing certification granted by Royal Yachting Association.)
 
 ## tl;dr - Here’s my list if you prefer to skip the story:
 

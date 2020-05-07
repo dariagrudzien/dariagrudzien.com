@@ -1,7 +1,10 @@
 ---
 title: "The One About Managing Self As A Junior"
 date: 2020-05-01T12:01:58+02:00
-description: "Or How To Decrease The Load on Your Team"
+---
+
+**Or How To Decrease The Load on Your Team.**
+
 ---
 
 Throughout the years, there are things my mentors reported, and some that I observed both while hustling as a junior and managing a team in my past life, which help juniors contribute more, develop faster and save mentoring time (and mentors energy).

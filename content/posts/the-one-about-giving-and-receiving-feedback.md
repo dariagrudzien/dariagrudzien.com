@@ -1,7 +1,10 @@
 ---
 title: "The One About Giving & Receiving Feedback"
 date: 2020-05-02T12:01:58+02:00
-description: "Or How To Develop Yourself The Hard Way"
+---
+
+**Or How To Develop Yourself The Hard Way.**
+
 ---
 
 For a long time I’ve been interested in the topic of feedback - learning from others things that allow us to grow and develop ourselves, as well as improve our cooperation with other people. Recently I’ve been wondering why it’s so rare for people in my culture (Central/Eastern Europe) to share feedback - it’s particularly surprising to me when people struggle finding things to praise for. Giving someone positive feedback feels like such an easy way to do something nice for the person, to make them feel appreciated.
