@@ -8,7 +8,7 @@ googleAnalytics = "UA-165368426-1"
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
 paginate = 10
 # Number of characters to show in summary.
-summaryLength = 150
+summaryLength = 300
 enableEmoji = true
 
 [params]
@@ -19,22 +19,22 @@ enableEmoji = true
     featherIconsCDN = true
     favicon = "/icons/compass-small.ico"
     customCSS = "/css/custom.css"
+
 # Main menu which appears below site header.
 [[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
 
-# Enable when more than 10 posts
-# [[menu.main]]
-# name = "All posts"
-# url = "/posts"
-# weight = 2
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 2
+weight = 3
 
 # Social media links which shows up on site header.
 # Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
