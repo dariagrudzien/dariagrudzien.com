@@ -1,5 +1,5 @@
 body {
-    font-family: "ubuntu", Helvetica, Arial, sans-serif;
+    font-family: "raleway", Helvetica, Arial, sans-serif;
     font-weight: 400;
     color: #333;
     line-height: 1.6;
@@ -11,17 +11,13 @@ a, a:hover {
 }
 
 a:hover {
-    text-decoration: underline
+    text-decoration: underline;
 }
 
 html,button,input,select,textarea {
     color: #333;
 }
 
-p {
-    font-family: "noto serif", Georgia, Times, 'Times New Roman', serif;
-    color: green;
-}
 ::-moz-selection {
     background: #F8F2F5;
 }
@@ -44,19 +40,14 @@ blockquote {
     padding-left: 20px;
 }
 
-a,a:hover {
-    color: #7D6DAD;
-    text-decoration: none
-}
-
 h1,h2,h3,h4,h5,h6 {
     font-family: "ubuntu", sans-serif;
-    color: #613659;
+    color: #7D6DAD;
     font-weight: 500;
 }
 
 .site-title a {
-    color: #613659;
+    color: #7D6DAD;
     font-weight: 500;
 }
 
