@@ -7,31 +7,37 @@ body {
 }
 
 p {
+    color: #000;
+}
+
+p a {
+    font-size: 1em;
+}
+
+span, p, ul, li {
     font-weight: 500;
 }
 
+ul {
+    list-style-type: square;
+}
+
 a, a:hover {
+    font-size: 1.2em;
     color: #7D6DAD;
+    font-weight: 600;
 }
 
 a:hover {
     text-decoration: underline;
 }
 
-html,button,input,select,textarea {
-    color: #333;
-}
-
-::-moz-selection {
-    background: #F8F2F5;
-}
-
-::selection {
+::-moz-selection, ::selection {
     background: #F8F2F5;
 }
 
 hr {
-    border-top: 1px solid #E4E2EA;
+    border-top: 1px solid #D3B1C2;
 }
 
 blockquote {
@@ -45,26 +51,20 @@ blockquote {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: "ubuntu", sans-serif;
     color: #7D6DAD;
-    font-weight: 400;
+    font-weight: 600;
 }
 
-.site-title a {
-    color: #333;
-    font-weight: 500;
+h1 {
+    font-size: 2.2em;
 }
 
-.highlight {
-    background-color: #F8F2F5;
+h2 {
+    font-size: 1.9em;
 }
 
 .header nav {
     border-top: 1px solid #F8F2F5;
-}
-
-.header a {
-    font-weight: 300;
 }
 
 .header h2 {
@@ -78,43 +78,23 @@ h1,h2,h3,h4,h5,h6 {
 
 .section .section-header {
     color: #999;
-
 }
 
 .recent-posts .posts .post .meta,
 .post .post-header .meta,
 .list .posts .post .meta {
     color: #999;
-}
-
-.post .draft-label {
-    color: #7D6DAD;
-    background-color: #F8F2F5;
-}
-
-.post-tags .tags a {
-    display: inline-block;
-    border: 1px solid #7D6DAD;
-    border-radius: 4px;
-    padding: 0px 6px;
-    color: #7D6DAD;
-    line-height: 20px;
-    font-size: 12px;
-    text-decoration: none;
-    margin: 0 1px;
-}
-
-ul li {
-    font-weight: 600;
+    font-size: 0.8em;
 }
 
 .footer {
-    text-align: right;
-    font-size: 0.75em;
+    font-size: 0.8em;
     color: #999;
     border-top: 1px solid #F8F2F5;
-    padding: 20px 0;
-    margin-top: 40px;
+}
+
+.footer a {
+    font-size: 1em;
 }
 
 table th {
@@ -122,6 +102,5 @@ table th {
 }
 
 table th, table td {
-    padding: 10px 20px;
-    border: 1px solid #dddddd;
+    border: 1px solid #F8F2F5;
 }

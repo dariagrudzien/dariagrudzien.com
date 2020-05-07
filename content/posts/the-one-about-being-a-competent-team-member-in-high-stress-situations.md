@@ -7,11 +7,11 @@ date: 2020-05-03T14:01:58+02:00
 
 ---
 
-(The idea to use a phrase "competent team member" comes from [Competent Crew]((https://en.wikipedia.org/wiki/Competent_Crew)), an entry level sailing certification granted by Royal Yachting Association.)
+(The idea to use a phrase "competent team member" comes from [Competent Crew](https://en.wikipedia.org/wiki/Competent_Crew), an entry level sailing certification granted by Royal Yachting Association.)
 
-## tl;dr - Here’s my list if you prefer to skip the story:
+### tl;dr - Here’s my list if you prefer to skip the story:
 
-1. Pick a single commander and follow his lead, not that of random bystanders.
+1. Pick a single commander and follow their lead, not that of random bystanders.
 2. Allow the commander time to think things through, keep silent while they do that.
 3. Choose a single plan and have the whole team commit to it.
 4. Keep an eye on others, but don’t push your help when they don’t want it.
