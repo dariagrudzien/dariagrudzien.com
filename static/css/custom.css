@@ -1,7 +1,7 @@
 body {
     font-family: "ubuntu", Helvetica, Arial, sans-serif;
     font-weight: 400;
-    color: red;
+    color: #333;
     line-height: 1.6;
     font-size: 16px;
 }
@@ -51,14 +51,12 @@ a,a:hover {
 
 h1,h2,h3,h4,h5,h6 {
     font-family: "ubuntu", sans-serif;
-    /* color: #613659; */
-    color: green;
+    color: #613659;
     font-weight: 500;
 }
 
 .site-title a {
-    /* color: #613659; */
-    color: green !important;
+    color: #613659;
     font-weight: 500;
 }
 
