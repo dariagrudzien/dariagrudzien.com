@@ -27,4 +27,4 @@ Every time a pull request is created, it launches a [Netlify](https://www.netlif
 * Create the PR.
 * Wait for Netlify checks to pass.
 * Merge the PR.
-* Got get a :cake: :coffee:, and write another post.
+* Go get a :cake: & :coffee:, and write another post.
