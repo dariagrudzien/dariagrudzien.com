@@ -16,7 +16,7 @@ The website uses an [Ezhil](https://github.com/vividvilla/ezhil) theme for Hugo.
 
 I wouldn't be me if I hadn't tinkered with the style a bit. Custom CSS can be found in `static/css`.
 
-## Running locally :woman-running:
+## Running locally :computer:
 
 `hugo server -D` for local preview.
 
