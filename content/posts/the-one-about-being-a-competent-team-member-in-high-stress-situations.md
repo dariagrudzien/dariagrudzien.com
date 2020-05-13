@@ -54,4 +54,6 @@ Then we gathered for dinner cooked by our friend, seating safely cuddled into th
 
 For this one evening docking in Oslo that went superbly, there were hundreds of docking maneuvers we butchered. We made all sorts of mistakes - we scratched the boat in weak winds because we were careless. We sailed out into storms we barely got out of because we were naive, cocky and very young. We made a mess in countless marinas all around Scandinavia because we argued while executing maneuvers. We had to repeat docking because one of us did not make a proper knot. We fucked it all up in any way a sailor can. There’s plenty of learning we got out of those adventures, together with a lot of remorse, hurt feelings, hurt boats and sometimes hurt people. We laugh at those old stories now and silently prey to the Neptune, and loudly pour him rum, hoping he will always let us dock safely. Docking in stormy Oslo wasn’t the most heroic thing we did throughout the years, but for once our crew work, our communication, discipline, focus and execution worked really well. I like telling this story because I’m proud of what we did, and no matter what context my current adventure is in, those hard earned lessons from the sea stick with me. So don’t listen to my waffling, just go try some sailing.
 
-Daria :hibiscus:
+_**Daria**_
+
+![Banner](/img/tcp.png)

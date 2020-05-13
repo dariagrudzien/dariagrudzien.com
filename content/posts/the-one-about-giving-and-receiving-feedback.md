@@ -69,4 +69,6 @@ Feedback you give is there to let other people grow.
 
 Go out there into the world and give people feedback that helps them grow, and nourishes their souls.
 
-Daria :hibiscus:
+_**Daria**_
+
+![Banner](/img/tcp.png)
