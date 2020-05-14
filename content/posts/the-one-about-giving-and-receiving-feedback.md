@@ -9,9 +9,13 @@ date: 2020-05-02T12:01:58+02:00
 
 For a long time I’ve been interested in the topic of feedback - learning from others things that allow us to grow and develop ourselves, as well as improve our cooperation with other people. Recently I’ve been wondering why it’s so rare for people in my culture (Central/Eastern Europe) to share feedback - it’s particularly surprising to me when people struggle finding things to praise for. Giving someone positive feedback feels like such an easy way to do something nice for the person, to make them feel appreciated.
 
-My conclusion is that **both giving and receiving honest feedback requires us to open up, cut through our armour all the way to our guts and become vulnerable to the other person**. It takes effort from the giver to formulate it - it shows they’ve been interested in the person, and reflects their own personality and values. It makes the receiver realize someone has been observing them. It makes it very easy in this moment of vulnerability for someone to make a sarcastic joke (in self defense) and accidentally hurt the other person. One of the hardest learnings is to simply say “Thank you” in such a situation. It takes it to the next level when the receiver of feedback can say “I appreciate your saying this, this skill is important to me and I’ve been trying to improve”, admitting their own effort and focus.
+My conclusion is that **both giving and receiving honest feedback requires us to open up, cut through our armour all the way to our guts and become vulnerable to the other person**. It takes effort from the giver to formulate it - it shows they’ve been interested in the person, and reflects their own personality and values. It makes the receiver realize someone has been observing them. It makes it very easy in this moment of vulnerability for someone to make a sarcastic joke (in self defense) and accidentally hurt the other person.
 
-One of the most valuable and applicable learnings on the topic of feedback came from [Dinah Spritzer](https://www.linkedin.com/in/dinahspritzer/). I was drawn to her session because of her impressive experience as a journalist. For the full version watch [Dinah’s talk on a Femme Palette webinar](https://vimeo.com/404698549). Here’s what I learned from her, in a nutshell and amended with my thoughts:
+One of the hardest learnings is to simply say “Thank you” in such a situation. It takes it to the next level when the receiver of feedback can say “I appreciate your saying this, this skill is important to me and I’ve been trying to improve”, admitting their own effort and focus.
+
+One of the most valuable and applicable learnings on the topic of feedback came from [Dinah Spritzer](https://www.linkedin.com/in/dinahspritzer/). I was drawn to her session because of her impressive experience as a journalist. For the full version watch [Dinah’s talk on a Femme Palette webinar](https://vimeo.com/404698549).
+
+Here’s what I learned from her, in a nutshell and amended with my thoughts:
 
 ## Receiving Feedback
 
