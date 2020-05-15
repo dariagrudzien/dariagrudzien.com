@@ -10,6 +10,7 @@ paginate = 10
 # Number of characters to show in summary.
 summaryLength = 100
 enableEmoji = true
+enableRobotsTXT = true
 
 [params]
     subtitle = "I write about tech, comms, and people."
@@ -57,3 +58,9 @@ url = "https://linkedin.com/in/dariagru"
 name = "RSS"
 icon = "rss"
 url = "/index.xml"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
