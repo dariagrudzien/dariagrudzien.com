@@ -17,7 +17,8 @@ The available job openings and requirements vary heavily depending on the exact 
 - Reaching out to recruiters to get a different, front line perspective on the market
 - Applying the universal Google-fu to the task
 
-![Banner](/img/research.jpg)
+![Banner](/img/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg)
+
 
 ## Go To Tech Meetups
 
