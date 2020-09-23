@@ -12,6 +12,7 @@ You may be interested in this post if you are:
 * Thinking of getting a job in the field of web development, software engineering or a related discipline which includes writing code
 * A **career-changer**, either going through a programming bootcamp or self-learning
 * A **student** of Computer Science, IT or a related major, thinking of getting your first internship or a part-time job
+
 * Early on in your career and thinking about looking for your next job
 * Have been working in the same company, mostly on proprietary code, for many years now and are considering making a change
 
