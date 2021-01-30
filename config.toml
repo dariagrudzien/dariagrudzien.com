@@ -11,14 +11,14 @@ enableEmoji = true
 enableRobotsTXT = true
 
 [params]
-    description = "I write about tech, comms, and people."
+    # description = "I write about tech, comms, and people."
     # Content types which are included in home page recent posts list.
     mainSections = ["posts"]
-    favicon = "/icons/dg-icon-100.png"
+    favicon = "/icons/favicon.ico"
     custom_css = ["css/custom.css"]
     show_reading_time = true
     site_logo = "/images/dg-w-logo.png"
-    featured_image = "/images/dg-d-hero.png"
+    # featured_image = "/images/dg-d-hero.png"
     recent_posts_number = 5
     twitter = "https://twitter.com/dariagrudzien"
     github = "https://github.com/dariagrudzien"
@@ -47,3 +47,6 @@ weight = 3
   filename = "sitemap.xml"
   priority = 0.5
 
+[module]
+  [[module.imports]]
+    path = "github.com/theNewDynamic/gohugo-theme-ananke"
