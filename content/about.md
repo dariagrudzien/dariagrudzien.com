@@ -1,5 +1,5 @@
 ---
-featured_image: "/images/dg-d-hero.png"
+featured_image: "/images/dg-d-hero.webp"
 description: "The inspiration for this blog was a collection of emails written in an attempt to help a smart, hard-working IT student find her first job in web development. Emails don't scale well so here we are."
 ---
 
@@ -18,4 +18,4 @@ Thank you for stopping by the blog. I hope you'll enjoy the readings.
 _**Daria**_
 
 
-![Banner](/images/dg-tcp.png)
+![Banner](/images/dg-tcp.webp)

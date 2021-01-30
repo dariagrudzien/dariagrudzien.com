@@ -1,7 +1,7 @@
 ---
 title: "The One About Managing Self As A Junior"
 date: 2020-05-01T12:01:58+02:00
-featured_image: "/img/surface-KxCAa7wpzu0-unsplash.jpg"
+featured_image: "/img/surface-KxCAa7wpzu0-unsplash.webp"
 ---
 
 **Or how to decrease the load on your team.**
@@ -110,4 +110,4 @@ _**Daria**_
 
 P.S. Many thanks to [Honza Javorek](https://honzajavorek.cz/) for his review and suggestions which enriched this post.
 
-![Banner](/images/dg-tcp.png)
+![Banner](/images/dg-tcp.webp)
