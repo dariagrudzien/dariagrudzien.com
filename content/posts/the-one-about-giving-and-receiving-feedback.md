@@ -1,9 +1,10 @@
 ---
 title: "The One About Giving & Receiving Feedback"
 date: 2020-05-02T12:01:58+02:00
+featured_image: "/img/work-with-island-OfC8pIk3gl0-unsplash.jpg"
 ---
 
-**Or How To Develop Yourself The Hard Way.**
+**Or how to develop yourself the hard way.**
 
 ---
 
@@ -71,4 +72,4 @@ Go out there into the world and give people feedback that helps them grow, and n
 
 _**Daria**_
 
-![Banner](/img/tcp.png)
+![Banner](/images/dg-tcp.png)

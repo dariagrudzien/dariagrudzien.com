@@ -1,10 +1,14 @@
 [build.environment]
-  HUGO_VERSION = "0.69.2"
+  HUGO_VERSION = "0.79.0"
   HUGO_ENABLEGITINFO = "true"
+  GO_VERSION = "1.15.7"
 
 [context.production.environment]
   HUGO_ENV = "production"
-  
+  HUGO_VERSION = "0.79.0"
+  HUGO_ENABLEGITINFO = "true"
+  GO_VERSION = "1.15.7"
+
 [[headers]]
   for = "*.webmanifest"
   [headers.values]
