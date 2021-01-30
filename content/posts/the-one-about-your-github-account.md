@@ -1,9 +1,10 @@
 ---
 title: "The One About Your GitHub Account"
 date: 2020-05-23T14:37:58+02:00
+featured_image: "/img/richy-great-MAYEkmn7G6E-unsplash.jpg"
 ---
 
-**Or An Opinionated Guide To Using Your Commit Messages To Show Your Work Style To Others.**
+**Or an opinionated guide to using your commit messages to show your work style to others.**
 
 ---
 
@@ -95,4 +96,4 @@ It starts off by highlighting that “Software engineering is a highly collabora
 
 Looking at the table of contents I have to admit, though, that I get alarmed every time someone drags Freud into an innocent conversation.
 
-![Banner](/img/tcp.png)
+![Banner](/images/dg-tcp.png)

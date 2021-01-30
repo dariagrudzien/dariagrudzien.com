@@ -1,9 +1,10 @@
 ---
 title: "The One About Researching Your Local Job Market"
 date: 2020-07-01T07:01:58+02:00
+featured_image: "/img/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg"
 ---
 
-**Or How To Find Interesting Jobs If You Have No Idea Where To Start.**
+**Or how to find interesting jobs if you have no idea where to start.**
 
 ---
 
@@ -84,4 +85,4 @@ _**Daria**_
 
 P.S. Many thanks to [Honza Javorek](https://honzajavorek.cz/) for his review and suggestions which enriched this post.
 
-![Banner](/img/tcp.png)
+![Banner](/images/dg-tcp.png)

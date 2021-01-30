@@ -1,9 +1,10 @@
 ---
 title: "The One About Being A Competent Team Member In High Stress Situations"
 date: 2020-05-03T14:01:58+02:00
+featured_image: "/img/alina-pkhakadze-fl1FA_x955E-unsplash.jpg"
 ---
 
-**Or Lessons Learned From Not Crashing Your Boat Into The Pier at 70 Km/h.**
+**Or lessons learned from not crashing your boat into the pier at 70 km/h.**
 
 ---
 
@@ -67,4 +68,4 @@ I like telling this story because I’m proud of what we did, and no matter what
 
 _**Daria**_
 
-![Banner](/img/tcp.png)
+![Banner](/images/dg-tcp.png)

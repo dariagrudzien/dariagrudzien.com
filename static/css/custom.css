@@ -1,111 +1,12 @@
 body {
-    font-family: "raleway", Helvetica, Arial, sans-serif;
-    font-weight: 600;
-    color: #333;
-    line-height: 1.6;
-    font-size: 16px;
-    font-display: swap;
+    font-family: "montserrat", Helvetica, Arial, sans-serif;
 }
 
-p {
-    color: #000;
+
+.nested-links a:hover, a:hover {
+    color: #06BFC9;
 }
 
-p a {
-    font-size: 1em;
-}
-
-span, p, ul, li {
-    font-weight: 700;
-}
-
-ul {
-    list-style-type: square;
-}
-
-a, a:hover {
-    font-size: 1.2em;
-    color: #7D6DAD;
-    font-weight: 600;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-::-moz-selection, ::selection {
-    background: #F8F2F5;
-}
-
-hr {
-    border-top: 1px solid #D3B1C2;
-}
-
-blockquote {
-    margin-left: 1rem;
-    font-style: italic;
-    font-size: 1rem;
-    font-family: Georgia,bitstream charter,serif;
-    border-left: 3px solid;
-    border-color: #D3B1C2;
-    padding-left: 20px;
-}
-
-h1,h2,h3,h4,h5,h6 {
-    color: #7D6DAD;
-    font-weight: 600;
-}
-
-h1 {
-    font-size: 2.2em;
-}
-
-h2 {
-    font-size: 1.9em;
-}
-
-.header nav {
-    border-top: 1px solid #F8F2F5;
-}
-
-.header h1 {
-    font-size: 1.6em;
-}
-
-.header h2 {
-    color: #333;
-    font-weight: 300;
-}
-
-.header .site-description {
-    color: #7D6DAD;
-}
-
-.section .section-header {
-    color: #999;
-}
-
-.recent-posts .posts .post .meta,
-.post .post-header .meta,
-.list .posts .post .meta {
-    color: #999;
-    font-size: 0.8em;
-}
-
-.footer {
-    font-size: 0.8em;
-    color: #999;
-    border-top: 1px solid #F8F2F5;
-}
-
-.footer a {
-    font-size: 1em;
-}
-
-table th {
-    background-color: #F8F2F5;
-}
-
-table th, table td {
-    border: 1px solid #F8F2F5;
+.nested-links a {
+    color: #021740;
 }
