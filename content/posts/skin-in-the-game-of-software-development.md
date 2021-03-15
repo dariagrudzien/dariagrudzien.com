@@ -160,4 +160,4 @@ _**Daria**_
 
 *P.S. Many thanks to Lukáš Linhart for his review and corrections.*
 
-![Banner](/images/dg-tcp.jpeg)
+![Banner](/images/dg-tcp-2.jpeg)
