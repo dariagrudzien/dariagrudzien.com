@@ -110,4 +110,4 @@ _**Daria**_
 
 P.S. Many thanks to [Honza Javorek](https://honzajavorek.cz/) for his review and suggestions which enriched this post.
 
-![Banner](/images/dg-tcp.jpeg)
+![Banner](/images/dg-tcp-2.jpeg)

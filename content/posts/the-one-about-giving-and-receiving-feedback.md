@@ -72,4 +72,4 @@ Go out there into the world and give people feedback that helps them grow, and n
 
 _**Daria**_
 
-![Banner](/images/dg-tcp.jpeg)
+![Banner](/images/dg-tcp-2.jpeg)

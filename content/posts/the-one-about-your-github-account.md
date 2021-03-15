@@ -96,4 +96,4 @@ It starts off by highlighting that “Software engineering is a highly collabora
 
 Looking at the table of contents I have to admit, though, that I get alarmed every time someone drags Freud into an innocent conversation.
 
-![Banner](/images/dg-tcp.jpeg)
+![Banner](/images/dg-tcp-2.jpeg)
