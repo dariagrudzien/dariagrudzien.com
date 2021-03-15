@@ -15,7 +15,7 @@ Game](https://www.goodreads.com/book/show/36064445-skin-in-the-game)
 I realized there's one main learning I got both out of the job hunt and my
 first job:
 
-**TL;DR --- Engineering work suffers if the technical decision makers
+**TL;DR --- Engineering work suffers if technical decision makers
 don't participate in experiencing the consequences of their decisions.**
 
 Let me illustrate with these examples[^1] :
