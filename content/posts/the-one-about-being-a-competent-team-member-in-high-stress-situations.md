@@ -68,4 +68,4 @@ I like telling this story because I’m proud of what we did, and no matter what
 
 _**Daria**_
 
-![Banner](/images/dg-tcp.webp)
+![Banner](/images/dg-tcp.jpeg)

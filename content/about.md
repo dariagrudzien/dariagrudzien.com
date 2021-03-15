@@ -20,4 +20,4 @@ Thank you for stopping by the blog. I hope you'll enjoy the readings.
 _**Daria**_
 
 
-![Banner](/images/dg-tcp.webp)
+![Banner](/images/dg-tcp.jpeg)
