@@ -1,5 +1,5 @@
 ---
-title: "Staying focused in the busy life of a site reliability engineer"
+title: "Staying Focused In The Busy Life Of A Site Reliability Engineer"
 date: 2022-06-28T21:48:58+02:00
 featured_image: "/img/life-at-redpanda.jpeg"
 ---
