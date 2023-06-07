@@ -88,12 +88,10 @@ _**Daria**_
 
 ---
 
-P.S. Many thanks to [Honza Javorek](https://honzajavorek.cz/) for his review and suggestions which enriched this post.
-
-P.P.S. When doing some research for this article I found out that indeed—there’s a nontrivial amount of studies related to personality types and GitHub. My favorite example is this bachelor’s thesis on the [exploration of personality traits of GitHub Developers as expressed in GitHub issues](https://elib.uni-stuttgart.de/handle/11682/10641).
+P.S. When doing some research for this article I found out that indeed—there’s a nontrivial amount of studies related to personality types and GitHub. My favorite example is this bachelor’s thesis on the [exploration of personality traits of GitHub Developers as expressed in GitHub issues](https://elib.uni-stuttgart.de/handle/11682/10641).
 
 It starts off by highlighting that “Software engineering is a highly collaborative process [...]. Whenever collaboration is a factor, personality of participants can affect the outcome, especially due to the nature of software development practices in which single people can hold tremendous decision making power and many developers work on definitive areas within the software itself.”
 
 Looking at the table of contents I have to admit, though, that I get alarmed every time someone drags Freud into an innocent conversation.
 
-![Banner](/images/dg-tcp-2.jpeg)
+![Banner](/images/dg_tcp.jpeg)

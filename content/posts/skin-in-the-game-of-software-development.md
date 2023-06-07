@@ -1,7 +1,7 @@
 ---
 title: "Skin In The Game Of Software Development"
 date: 2021-03-15T14:01:58+02:00
-featured_image: "/img/amy-hirschi-uwpo02K55zw-unsplash.jpeg"
+featured_image: "/img/amy-hirschi-uwpo02K55zw-unsplash_2.jpeg"
 ---
 
 **Or The Agency Problem Within Engineering Teams.**
@@ -158,6 +158,6 @@ productivity.
 
 _**Daria**_
 
-*P.S. Many thanks to Lukáš Linhart for his review and corrections.*
 
-![Banner](/images/dg-tcp-2.jpeg)
+
+![Banner](/images/dg_tcp.jpeg)

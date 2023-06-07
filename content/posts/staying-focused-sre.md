@@ -1,7 +1,7 @@
 ---
 title: "Staying Focused In The Busy Life Of A Site Reliability Engineer"
 date: 2022-06-28T21:48:58+02:00
-featured_image: "/img/life-at-redpanda.jpeg"
+featured_image: "/img/life-at-redpanda_2.jpeg"
 ---
 
 **Life At Redpanda**
@@ -60,4 +60,4 @@ _**Daria**_
 
 *P.S. Many thanks to my colleague Kayla Minguez for putting this post together and making sense of my stream of consciousness, and to Redpanda Data for allowing me to re-share it. See the original post on [Redpanda's website](https://redpanda.com/blog/staying-focused-SRE-career).*
 
-![Banner](/images/dg-tcp-2.jpeg)
+![Banner](/images/dg_tcp.jpeg)
