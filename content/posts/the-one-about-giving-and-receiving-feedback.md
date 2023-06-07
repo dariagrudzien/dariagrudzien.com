@@ -1,7 +1,7 @@
 ---
 title: "The One About Giving & Receiving Feedback"
 date: 2020-05-02T12:01:58+02:00
-featured_image: "/img/work-with-island-OfC8pIk3gl0-unsplash.webp"
+featured_image: "/img/work-with-island-OfC8pIk3gl0-unsplash_2.webp"
 ---
 
 **Or how to develop yourself the hard way.**
@@ -72,4 +72,4 @@ Go out there into the world and give people feedback that helps them grow, and n
 
 _**Daria**_
 
-![Banner](/images/dg-tcp-2.jpeg)
+![Banner](/images/dg_tcp.jpeg)
