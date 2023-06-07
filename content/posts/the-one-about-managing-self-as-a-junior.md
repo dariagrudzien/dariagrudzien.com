@@ -106,8 +106,5 @@ To every one of you, on an off chance that you’ve read this article this far, 
 
 _**Daria**_
 
----
-
-P.S. Many thanks to [Honza Javorek](https://honzajavorek.cz/) for his review and suggestions which enriched this post.
 
 ![Banner](/images/dg_tcp.jpeg)

@@ -158,6 +158,6 @@ productivity.
 
 _**Daria**_
 
-*P.S. Many thanks to Lukáš Linhart for his review and corrections.*
+
 
 ![Banner](/images/dg_tcp.jpeg)

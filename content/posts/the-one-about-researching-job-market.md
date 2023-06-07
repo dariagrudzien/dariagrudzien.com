@@ -81,8 +81,4 @@ If you’re thinking about getting your first job, switching to something more e
 
 _**Daria**_
 
----
-
-P.S. Many thanks to [Honza Javorek](https://honzajavorek.cz/) for his review and suggestions which enriched this post.
-
 ![Banner](/images/dg_tcp.jpeg)
